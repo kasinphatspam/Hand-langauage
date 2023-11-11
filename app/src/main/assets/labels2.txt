@@ -1,0 +1,11 @@
+angry
+background
+bad
+food
+good
+hungry
+like
+look
+sit
+stand
+working
